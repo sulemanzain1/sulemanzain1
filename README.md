@@ -1,12 +1,14 @@
 # 💫 About Me:
 SUMMARY<br>Experienced IT Engineer with 2+ years of experience in managing data center infrastructure and environment. Aside from that, I have expertise in Python programming, data analytics, and Power BI. Currently working as a Data analyst with projects leading at Alpha Technologies International where I am responsible for maintaining and monitoring data center infrastructure and environment for leading companies.<br><br>CERTIFICATIONS<br>•	Data Analytics & Business Intelligence (Digiskills)<br>•	Intro to Python for Cybersecurity<br>•	AI For Everyone (Coursera)Data	<br>•	Data Science (Simplelearn)<br>•	Data Visualization/ Data Analyst (TATA intership program)<br><br>PROJECTS<br>•	IoT Based Home Automation with Face Recognition Surveillance (FYP) <br>•	Transformer Load sharing with Feedback of oil Level<br>•	IoT Based Smart Hovercraft<br>•	IoT based Solar powered monitoring.<br>•	Smart Motorway using raspberry pi Vehicle Number Plate Detection<br>•	Self Sufficient smart Irrigation system using Raspberry pi-based plant disease detection.<br>•	IoT Based Substation Monitoring and protection<br>
+## 💫 Hire Me.......!!!
 
+<a href="https://www.fiverr.com/sulemanzain?up_rollout=true" target="blank"><img align="center" src="https://img.icons8.com/color/256/fiverr.png" height="50" width="50" /></a> 
+<a href="https://www.upwork.com/freelancers/~01859d85a567f48833?viewMode=1" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" height="50" width="50" /></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sulemanzain) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@suleman.zain) 
 <a href="https://kaggle.com/sulemanzain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sulemanzain" height="30" width="40" /></a>
-<a href="https://www.fiverr.com/sulemanzain?up_rollout=true" target="blank"><img align="left" src="https://img.icons8.com/color/256/fiverr.png" height="40" width="40" /></a> 
-<a href="https://www.upwork.com/freelancers/~01859d85a567f48833?viewMode=1" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" height="35" width="35" /></a>
+
 
 
 
