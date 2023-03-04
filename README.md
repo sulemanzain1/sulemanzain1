@@ -5,7 +5,10 @@ SUMMARY<br>Experienced IT Engineer with 2+ years of experience in managing data 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sulemanzain) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@suleman.zain) 
 <a href="https://kaggle.com/sulemanzain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sulemanzain" height="30" width="40" /></a>
-<a href="https://www.fiverr.com/sulemanzain?up_rollout=true" target="blank"><img align="center" src="https://user-images.githubusercontent.com/31610416/40330131-f8fd2880-5d19-11e8-8e7b-a326fa9d48eb.png" height="30" width="30" /></a>
+<a href="https://www.fiverr.com/sulemanzain?up_rollout=true" target="blank"><img align="left" src="https://img.icons8.com/color/256/fiverr.png" height="40" width="40" /></a> 
+<a href="https://www.upwork.com/freelancers/~01859d85a567f48833?viewMode=1" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" height="35" width="35" /></a>
+
+
 
 
 # 💻 Tech Stack:
