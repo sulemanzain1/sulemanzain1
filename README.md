@@ -5,7 +5,7 @@ SUMMARY<br>Experienced IT Engineer with 2+ years of experience in managing data 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sulemanzain) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@suleman.zain) 
 <a href="https://kaggle.com/sulemanzain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sulemanzain" height="30" width="40" /></a>
-<a href="https://www.fiverr.com/share/lV6yEb" target="blank"><img align="center" src="https://user-images.githubusercontent.com/31610416/40330131-f8fd2880-5d19-11e8-8e7b-a326fa9d48eb.png" height="30" width="30" /></a>
+<a href="https://www.fiverr.com/sulemanzain?up_rollout=true" target="blank"><img align="center" src="https://user-images.githubusercontent.com/31610416/40330131-f8fd2880-5d19-11e8-8e7b-a326fa9d48eb.png" height="30" width="30" /></a>
 
 
 # 💻 Tech Stack:
