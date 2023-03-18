@@ -24,6 +24,6 @@ SUMMARY<br>Experienced IT Engineer with 2+ years of experience in managing data 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sulemanzain1&icon=9&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sulemanzain1&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
